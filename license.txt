@@ -1,0 +1,11 @@
+The word being find is: license
+count of the given word:
+87
+beforewords:
+['PUBLIC', 'THIS', 'PUBLIC', 'THE', 'PUBLIC', 'THIS', 'PUBLIC', 'THIS', 'PUBLIC', 'PUBLIC', 'THIS', 'RESTRICTIVE', 'PATENT', 'THIS', 'PUBLIC', 'THIS', 'PUBLIC', 'PUBLIC', 'THIS', 'PUBLIC', 'PUBLIC', 'THIS', 'PUBLIC', 'PUBLIC', 'PUBLIC', 'LESSER', 'PUBLIC', 'PUBLIC', 'PUBLIC', 'THIS', 'PUBLIC', '"THIS', 'EACH', 'THIS', 'THIS', 'THIS', 'BE', 'THIS', 'THIS', 'THIS', 'OTHER', 'THIS', 'PUBLIC', 'THIS', 'THIS', 'PUBLIC', 'THIS', 'PUBLIC', 'PUBLIC', 'THIS', 'THIS', 'THIS', 'THIS', 'THIS', 'THE', 'THIS', 'MODIFY,', 'THIS', 'MODIFY,', 'THIS', 'THIS', 'THEIR', 'THIS', 'THIS', 'THIS', 'A', 'THIS', 'THIS', 'THIS', 'THIS', 'PATENT', 'THIS', 'PUBLIC', 'A', 'THIS', 'THIS', 'THIS', 'THIS', 'PUBLIC', 'THIS', 'A', 'IS', 'PUBLIC', 'PUBLIC', 'THE', 'PUBLIC', 'PUBLIC']
+afterwords:
+['VERSION', 'DOCUMENT,', 'VERSION', 'FOR', 'ARE', 'THE', 'APPLIES', 'OR', 'IS', 'ARE', 'WHICH', 'FROM', 'OBTAINED', 'MOST', 'THIS', 'THE', 'APPLIES', 'WE', 'FOR', 'THEREFORE', 'PERMITS', 'THE', 'BECAUSE', 'IT', 'FOR', 'PROVIDES', 'IN', 'IS', 'TERMS', 'AGREEMENT', '(ALSO', 'EACH', 'IS', 'THEY', 'AND', 'ALONG', 'AT', 'D)', 'AND', 'WHOSE', 'EXTEND', '3.', 'INSTEAD', 'TO', 'SO', 'VERSION', '(IF', 'HAS', 'APPLIES', 'HOWEVER,', 'SECTION', 'YOU', 'IF', 'ALSO,', 'RESTRICTIONS', 'AND', 'LINK', 'ANY', 'LINK', 'HOWEVER,', 'WILL', 'TERMINATED', 'SINCE', 'THEREFORE,', 'TO', 'FROM', '11.', 'THEY', 'IF', 'AND', 'WOULD', 'WOULD', 'PRACTICES.', 'CANNOT', '12.', 'MAY', 'INCORPORATES', '13.', 'FROM', 'WHICH', 'VERSION', 'FREE', 'TO', 'AS', 'OR', 'FOR', 'ALONG']
+count of before words:
+87
+count of after words:
+87

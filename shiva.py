@@ -1,18 +1,18 @@
-class userinput:
-    def __init__(self,number,input_string):
-        self.number = number
-        self.input_string = input_string
-    def userno.(self,number):
-        return self.number = number
-    def userstring(self,input_string):
-        return self.input_string = input_string
+# class userinput:
+#     def __init__(self,number,input_string):
+#         self.number = number
+#         self.input_string = input_string
+#     def usernumber(self):
+#         return self.number
+#     def userstring(self):
+#         return self.input_string
 number = int(input("How many words: "))
 for userinputcount in range(int(number)):
     input_string = str(input("give the string:"))
-    path = 'C:\\Users\\99003727\\Documents\\GitHub\\python-module-shiva\\'
-    with open('C:\\Users\\99003727\\Documents\\GitHub\\python-module-shiva\\pythonminiproject.txt', 'r') as infile:
+    # path = 'C:\\Users\\99003727\\Documents\\GitHub\\python-module-shiva\\'
+    with open('test.txt', 'r') as infile:
         lines = infile.readlines()
-    with open(path+input_string+'.txt', 'w') as file_output:
+    with open(input_string+'.txt', 'w') as file_output:
         count = 0
         words = []
         word_index = []
