@@ -1,0 +1,11 @@
+The word being find is: licensed
+count of the given word:
+2
+beforewords:
+['BE', 'IS']
+afterwords:
+['AT', 'FREE']
+count of before words:
+2
+count of after words:
+2

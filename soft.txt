@@ -1,4 +1,4 @@
-The word being find is: software
+The word being find is: soft
 count of the given word:
 35
 beforewords:

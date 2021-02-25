@@ -1,0 +1,11 @@
+The word being find is: sofware
+count of the given word:
+0
+beforewords:
+[]
+afterwords:
+[]
+count of before words:
+0
+count of after words:
+0
