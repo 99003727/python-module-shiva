@@ -1,0 +1,11 @@
+The word being find is: software
+count of the given word:
+35
+beforewords:
+['FREE', 'MOST', 'FREE', 'THE', 'DESIGNATED', 'FREE', 'FREE', 'FREE', 'THE', 'FINALLY,', 'GNU', 'FREE', 'FREE', 'FREE', 'ANY', 'OF', 'SUCH', 'A', 'FOR', 'FREE', 'OF', 'DISTRIBUTE', 'FREE', 'FREE', 'FREE', 'FOR', 'FREE', 'FREE', 'FREE', 'OF', 'OTHER', 'FREE', 'FREE', 'FREE', 'FREE']
+afterwords:
+['FOUNDATION,', 'ARE', 'MAKE', 'IS', 'PACKAGES--TYPICALLY', 'FOUNDATION', 'WE', '(AND', 'AND', 'PATENTS', 'INCLUDING', 'DEVELOPERS', 'ONLY,', 'FOR', 'LIBRARY', 'FUNCTIONS', 'LIBRARY', 'LIBRARY.', 'INTERCHANGE.', 'DISTRIBUTION', 'DISTRIBUTED', 'THROUGH', 'FOUNDATION', 'FOUNDATION.', 'FOUNDATION.', 'WHICH', 'FOUNDATION,', 'FOUNDATION;', 'AND', 'GENERALLY.', 'EVEN', 'THAT', 'YOU', 'FOUNDATION;', 'FOUNDATION,']
+count of before words:
+35
+count of after words:
+35
