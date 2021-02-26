@@ -10,7 +10,7 @@ class userinput:
             self.number = int(self.number)-1
             input_string = str(input("give the string:"))
             with open('test.txt', 'r') as infile:
-                lines = infile.readlines()
+                lines = infile.readlines() #  creating a list with lines as elements
             with open(input_string+'.txt', 'w') as file_output:
                 count = 0
                 words = []
@@ -23,6 +23,7 @@ class userinput:
                             count += 1
                         word.split("[\\s@&.? ()$+-]+")  # splitting the word
                         words.append(word.upper())
+                        #  appendingthe element of line by using upper function to word list
                         # get the range of the repeat input
                 for i in range(len(words)):
                         if input_string.upper() in words[i].upper():
