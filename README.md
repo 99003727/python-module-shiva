@@ -1,2 +1,1 @@
-# python-module-shiva
- for python module
+!Have to compile the class file not the shiva file
