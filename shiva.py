@@ -1,12 +1,14 @@
 class userinput:
-    def __init__(self,number):
-         self.number = number
+    def __init__(self, number):
+        self.number = number
+
     def usernumber(self):
-         return self.number
+        return self.number
+
     def main(self):
-        for userinputcount in range(int(self.number)):
+        while int(self.number) > 0:
+            self.number = int(self.number)-1
             input_string = str(input("give the string:"))
-            # path = 'C:\\Users\\99003727\\Documents\\GitHub\\python-module-shiva\\'
             with open('test.txt', 'r') as infile:
                 lines = infile.readlines()
             with open(input_string+'.txt', 'w') as file_output:
@@ -16,12 +18,13 @@ class userinput:
                 before_words = []
                 after_words = []
                 for x in lines:  # accesing the word in line
-                    for word in x.split():   # accesing the elements in lines
+                    for word in x.split():  # accesing the elements in lines
                         if input_string.upper() in word.upper():
-                            count += 1  # checking the word and increasing the count
+                            count += 1
                         word.split("[\\s@&.? ()$+-]+")  # splitting the word
                         words.append(word.upper())
-                for i in range(len(words)):  # getting the range of the repeated input
+                        # get the range of the repeat input
+                for i in range(len(words)):
                         if input_string.upper() in words[i].upper():
                             word_index.append(i)
                 file_output.write("The word being find is: "+input_string)
@@ -31,7 +34,5 @@ class userinput:
                     after_words.append(words[i+1])
                 file_output.write("\nbeforewords:\n"+str(before_words))
                 file_output.write("\nafterwords:\n"+str(after_words))
-                file_output.write("\ncount of before words:\n"+str(len(before_words)))
-                file_output.write("\ncount of after words:\n"+str(len(after_words)))
-#obj1=Userinput(str(input("give the number:")))
-#obj1.main()
+                file_output.write("\ncnt bef words:\n"+str(len(before_words)))
+                file_output.write("\ncount aft words:\n"+str(len(after_words)))
