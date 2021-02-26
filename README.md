@@ -1,1 +1,1 @@
-!Have to compile the class file not the shiva file
+!Have to compile the import class file not the shiva file
